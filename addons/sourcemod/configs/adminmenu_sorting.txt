@@ -1,0 +1,113 @@
+/**
+ * The default sorting is designed to look familiar to Mani's admin menu.
+ * You may re-order items here for your own menu.  Any items not explicitly 
+ * sorted will be sorted by their final translated phrases for each given client.
+ */
+
+"Menu"
+{
+	"PlayerCommands"
+	{
+		"item"		"Assign player to team"
+		"item"		"sm_slay"
+		"item"		"sm_slap"
+		"item"		"sm_kick"
+		"item"		"sm_ban"
+		"item"		"sm_gag"
+		"item"		"sm_burn"		
+		//"item"		"sm_beacon"
+		//"item"		"sm_freeze"
+		//"item"		"sm_timebomb"
+		//"item"		"sm_firebomb"
+		//"item"		"sm_freezebomb"
+	}
+	"ServerCommands"
+	{
+		"item"		"sm_map"
+		"item"		"Move all players to spectator"
+		"item"		"Kick specified group of players"
+		"item"		"LAST TO SPECT KURWA"
+		"item"		"kanker-on (offclassing allowed)"
+		"item"		"kanker-off (offclassing prohibited)"
+		"item"		"maly's slow bball config"
+		"item"		"tv_delaymapchange_protect"
+		"item"		"mp_tournament_restart"
+		"item"		"mp_switchteams"
+		"item"		"mp_tournament"
+		"item"		"tftrue_freezecam"
+		"item"		"sm_execcfg"
+		"item"		"sm_reloadadmins"
+	}
+	"VotingCommands"
+	{
+		"item"		"sm_cancelvote"
+		"item"		"sm_votemap"
+		"item"		"sm_votekick"
+		"item"		"sm_voteban"
+	}
+	"ETF2L CFGs"
+	{
+		"item"		"ETF2L 6v6 5CP"
+		"item"		"ETF2L 6v6 KotH"
+		"item"		"ETF2L 6v6 Stopwatch"
+		"item"		"ETF2L 6v6 CTF"
+		"item"		"ETF2L HL KotH"
+		"item"		"ETF2L HL Stopwatch"
+		"item"		"ETF2L HL 5CP"
+		"item"		"ETF2L HL CTF"
+		"item"		"ETF2L BBall"
+		"item"		"ETF2L Ultiduo"
+		"item"		"ETF2L Golden Cap"
+	}
+	"UGC CFGs"
+	{
+		"item"		"UGC OFF"
+		"item"		"UGC HL KotH"
+		"item"		"UGC HL Stopwatch"
+		"item"		"UGC HL Standard (like 5CP)"
+		"item"		"UGC HL CTF"
+		"item"		"UGC 6v6 Golden Cap"
+		"item"		"UGC 6v6 Standard"
+		"item"		"UGC 6v6 Standard Overtime"
+		"item"		"UGC 6v6 KotH Overtime"
+		"item"		"UGC 6v6 Stopwatch"
+		"item"		"UGC 6v6 CTF"
+		"item"		"UGC 4v4 Golden Cap"
+		"item"		"UGC 4v4 Standard"
+		"item"		"UGC 4v4 Standard Overtime"
+		"item"		"UGC 4v4 KotH"
+		"item"		"UGC 4v4 KotH Overtime"
+		"item"		"UGC 4v4 Stopwatch"
+		"item"		"UGC 4v4 CTF"
+	}
+	"RGL CFGs"
+	{
+		"item"		"RGL HL Regular KoTH"
+		"item"		"RGL HL Stopwatch"
+		"item"		"RGL HL Playoffs KoTH"
+		"item"		"RGL OFF"
+		"item"		"RGL 6v6 5CP scrim"
+		"item"		"RGL 6v6 5CP 1st Half"
+		"item"		"RGL 6v6 5CP 2nd Half"
+		"item"		"RGL 6v6 5CP Golden Cap"
+		"item"		"RGL 6v6 Regular KoTH"
+		"item"		"RGL 6v6 Playoffs KoTH"
+		"item"		"RGL 7v7 Stopwatch"
+		"item"		"RGL 7v7 Regular KoTH"
+		"item"		"RGL 7v7 Playoffs KoTH"
+		"item"		"RGL NR 6s 5CP"
+		"item"		"RGL NR 6s Stopwatch"
+		"item"		"RGL NR 6s Regular KoTH"
+		"item"		"RGL NR 6s Playoffs KoTH"
+	}
+	"Ready-UP mode setup"
+	{
+		"item"		"Ready-UP HL"
+		"item"		"Ready-UP 6v6"
+		"item"		"Ready-UP BBall/Ultiduo"
+		"item"		"Ready-UP Prolander"
+		"item"		"Ready-UP 4v4"
+		"item"		"Ready-UP Off"
+	}
+}
+
